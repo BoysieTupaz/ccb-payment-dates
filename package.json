@@ -1,0 +1,14 @@
+{
+  "name": "ccb-payment-dates",
+  "version": "1.0.0",
+  "description": "Script to import ccb payment dates to DynamoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boysie Tupaz",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.274.1"
+  }
+}
